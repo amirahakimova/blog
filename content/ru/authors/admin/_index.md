@@ -35,18 +35,19 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
-interests:
-  - ИИ
-  - Менеджмент
-  - Спортзал
+interests: 
+  - Бизнес-аналитика
+  - Цифровой маркетинг
+  - Финансовые технологии (FinTech)
+  - Путешествия
 
 education:
   - area: Student
     institution: RUDN
     date_start: 2024-09-01
     date_end: 2028-05-31
-    summary: 
-      
+    summary: Изучаю бизнес-информатику, интересуюсь аналитикой данных, цифровым маркетингом и автоматизацией бизнес-процессов.
+
 work:
   - position: Student
     company_name: RUDN
@@ -54,44 +55,47 @@ work:
     company_logo: ''
     date_start: 2024-09-01
     date_end: ''
-    summary: 
+    summary: Осваиваю бизнес-аналитику, маркетинг и технологии управления бизнесом.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Хард скиллы
     items:
-      - name: Python
-        description: ''
-        percent: 60
+      - name: Excel
+        description: Анализ данных и построение отчетов
+        percent: 75
         icon: code-bracket
-      - name: Переговоры
-        description: ''
-        percent: 80
+      - name: SQL
+        description: Основы работы с базами данных
+        percent: 60
         icon: chart-bar
-      - name: DataScience
-        description: ''
-        percent: 40
+      - name: Digital Marketing
+        description: Работа с SEO, контент-менеджмент, реклама
+        percent: 65
         icon: circle-stack
   - name: Хобби
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Прогулки
-        description: ''
-        percent: 75
-      - name: Спортзал
-        description: ''
-        percent: 100
-      - name: Языки
-        description: ''
+      - name: Путешествия
+        description: Люблю открывать новые места и культуры
+        percent: 90
+      - name: Фотография
+        description: Фотографирую природу и городские пейзажи
         percent: 80
+      - name: Книги по бизнесу
+        description: Читаю о финансах, маркетинге и стартапах
+        percent: 85
 
 languages:
   - name: Русский
     percent: 100
   - name: Английский
-    percent: 60
+    percent: 75
+  - name: Испанский
+    percent: 50
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
